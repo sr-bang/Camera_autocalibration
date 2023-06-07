@@ -6,4 +6,3 @@ To run the code:
 ```sh
 python3 Wrapper.py
 ```
-# Camera_autocalibration
