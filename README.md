@@ -1,4 +1,3 @@
-# Homework 1: AutoCalib
 ## Implementation of Zhang's Camera Calibration method 
 
 To run the code:
