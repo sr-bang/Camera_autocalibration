@@ -139,7 +139,7 @@ def fun(x0, extrinsic, camera_co, worldpt):
     return np.array(total_error)
 
 
-# Minimizing the grometric error
+# Minimizing the geometric error
 def projection_error(K, k_distortion, extrinsic, camera_co, worldpt):
     alpha, gamma, beta, u0, v0, k1, k2 = find_parameters(K, k_distortion)
     total_error = []
